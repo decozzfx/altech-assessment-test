@@ -51,6 +51,7 @@ function sortDesc(arr) {
 ```
 
 ```c
+3.
  function isPalindrome(str) {
   str = str.toLowerCase().replace(/\s/g, "");
 
